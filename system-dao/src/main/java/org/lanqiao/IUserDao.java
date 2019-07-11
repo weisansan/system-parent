@@ -5,6 +5,7 @@ import org.lanqiao.domain.User;
 import java.util.List;
 
 public interface IUserDao {
+//¼Ó×¢ÊÍ
     public void addUser(User user);
     public List<User> getUser();
 }
